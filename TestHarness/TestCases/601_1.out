@@ -1,0 +1,14 @@
+Starting Application...
+Creating Counter object with a starting value of 1 and a step size of 3
+*** Counting up 5, operation is *
+counter = 1
+counter = 3
+counter = 9
+counter = 27
+counter = 81
+Max = 81
+Reset returned 243
+*** Counting up 2, operation is +
+counter = 1
+counter = 4
+Max = 81

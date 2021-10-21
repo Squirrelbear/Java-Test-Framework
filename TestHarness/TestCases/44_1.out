@@ -1,0 +1,10 @@
+New capacity = 1600
+Vehicle Info:
+  capacity = 1600cc
+  make = Mazda
+Cannot change capacity of a car
+Vehicle Info:
+  capacity = 1200cc
+  make = Holden
+  type = sedan
+  model = Barina

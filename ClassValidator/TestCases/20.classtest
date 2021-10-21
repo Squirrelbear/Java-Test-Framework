@@ -1,0 +1,12 @@
+class Boat
+constructor String String int
+defaultconstructor
+method setName void String
+method getName String
+method print void
+nopublicvariables
+onlyvariables regNum bClass name yardstick
+variable regNum private int
+variable bClass private String
+variable name private String
+variable yardstick private double

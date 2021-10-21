@@ -1,0 +1,11 @@
+=== Vehicle Data Base ===
+Vehicle Info:
+  capacity = 1200cc
+  make = Holden
+  type = sedan
+  model = Barina
+Vehicle Info:
+  capacity = 3800cc
+  make = Holden
+  type = wagon
+  model = Commodore

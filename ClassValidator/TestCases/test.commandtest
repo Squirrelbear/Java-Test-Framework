@@ -1,0 +1,10 @@
+SET myList IntList.constructor()
+RUN myList.insertAtEndofList(int:15)
+RUN myList.insertAtEndofList(int:23)
+RUN myList.insertAtEndofList(int:19)
+RUN myList.printList()
+ASSERT myList.getElementAt(int:2) == int:15
+ASSERT myList.getElementAt(int:0) == int:15
+ASSERT myList == int:15
+SET myList2 IntList.constructor()
+ASSERT myList != myList2

@@ -1,0 +1,8 @@
+class IntList
+method printList void
+method insertAtEndofList void int
+method getElementAt int int
+nopublicvariables
+onlyvariables list listLength
+variable list private int[]
+variable listLength private int

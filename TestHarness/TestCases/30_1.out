@@ -1,0 +1,15 @@
+Starting Application...
+Creating Counter object with a starting value of 1 and a step size of 3
+*** Counting up 5, operation is *
+counter = 1
+counter = 3
+counter = 9
+counter = 27
+counter = 81
+Creating Counter object with a starting value of 5
+*** Counting up 2, operation is -
+counter = 5
+counter = 4
+*** Counting up 2, operation is ?
+counter = 3
+Invalid operation: ?

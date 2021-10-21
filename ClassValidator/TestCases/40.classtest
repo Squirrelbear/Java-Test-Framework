@@ -1,0 +1,19 @@
+class EventInformation
+constructor String int
+method getEventTime String
+method getEventDatum int
+onlyvariables eventTime eventDatum
+nopublicvariables
+variable eventTime private String
+variable eventDatum private int
+class Recorder
+constructor int int String
+method printEvents void
+method recordEvent void String int
+onlyvariables xPos yPos eventType EVENT_MAX event xevent
+variable xPos ignore int
+variable yPos ignore int
+variable eventType ignore String
+variable EVENT_MAX ignore int
+variable event ignore EventInformation[]
+variable xevent ignore int

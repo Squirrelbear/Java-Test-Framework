@@ -1,0 +1,19 @@
+class Car
+variable type private String
+variable model private String
+onlyvariables type model
+constructor int String String String
+method print void
+method setCapacity void int
+class Vehicle
+variable capacity ignore int
+variable make ignore String
+onlyvariables capacity make
+constructor int String
+method print void
+method setCapacity void int
+class VehicleDB
+variable database ignore Vehicle[]
+variable databaseSize ignore int
+method addVehicle void Vehicle
+method print void

@@ -1,0 +1,25 @@
+Starting Application...
+Creating Counter object with a starting value of 1
+*** Counting up 2
+counter = 1
+counter = 2
+*** Counting up 3
+counter = 3
+counter = 4
+counter = 5
+*** Counting down 4
+counter = 5
+counter = 4
+counter = 3
+counter = 2
+*** Counting up 2
+counter = 2
+counter = 3
+*** Counting down 6
+counter = 3
+counter = 2
+counter = 1
+counter = 0
+*** Counting up 2
+counter = 0
+counter = 1

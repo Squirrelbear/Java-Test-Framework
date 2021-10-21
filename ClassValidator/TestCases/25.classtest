@@ -1,0 +1,7 @@
+class Frog
+constructor String int int
+method print void
+method printAgeGroup void
+method reverseName void
+onlyvariables name id age
+nopublicvariables

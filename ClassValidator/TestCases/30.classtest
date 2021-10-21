@@ -1,0 +1,8 @@
+class Counter
+constructor int
+constructor int int
+method countUp int
+method countDown int
+method countUp int char
+onlyvariables stepSize currentCount
+nopublicvariables

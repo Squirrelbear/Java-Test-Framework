@@ -1,0 +1,9 @@
+=== Vehicle Data Base ===
+Vehicle Info:
+  capacity = 1200cc
+  make = Holdon
+  type = sedan
+  model = Barina
+Vehicle Info:
+  capacity = 1500cc
+  make = Mazda

@@ -1,0 +1,21 @@
+List is empty
+42 inserted
+Printing list...
+Element 0 = 42
+2 inserted
+Printing list...
+Element 0 = 42
+Element 1 = 2
+Invalid index: 3
+0
+Invalid index: -1
+0
+2
+7 inserted
+9 inserted
+Printing list...
+Element 0 = 42
+Element 1 = 2
+Element 2 = 7
+Element 3 = 9
+Insertion of 100 failed

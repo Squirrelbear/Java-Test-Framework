@@ -1,0 +1,12 @@
+Starting Application...
+Creating Counter object with a starting value of 1 and a step size of 3
+*** Counting up 5
+counter = 1
+counter = 4
+counter = 7
+counter = 10
+counter = 13
+Creating Counter object with a starting value of 5
+*** Counting up 2
+counter = 5
+counter = 6

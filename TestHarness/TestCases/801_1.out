@@ -1,0 +1,7 @@
+Invalid time format: 10:53:4, ignoring event
+Invalid time format: 10:zz, ignoring event
+Invalid time format: 11:005, ignoring event
+Invalid hour in time: 56:59, ignoring event
+Event out of sequence: 12:06, ignoring event
+Record of Wombat Detection events at [100,100]
+Event number 0 was recorded at 13:59 with datum = 10

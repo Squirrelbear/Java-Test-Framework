@@ -1,0 +1,18 @@
+42 inserted
+2 inserted
+7 inserted
+Printing list...
+Element 0 = 42
+Element 1 = 2
+Element 2 = 7
+Contains 2
+Deletion of 99 failed
+2 deleted
+Printing list...
+Element 0 = 42
+Element 1 = 7
+2 inserted
+Printing list...
+Element 0 = 42
+Element 1 = 7
+Element 2 = 2
