@@ -10,6 +10,8 @@ Three separate folders are provided with some work in progress code, and some th
 
 * GUITest: Represents initial stages of developing the automated testing into a GUI.
 
+TestHarnessOverview.pdf shows some earlier documentation demonstrating use of the test harness. It did go through additional iteration after the version demonstrated.
+
 # Test Harness
 
 Test cases are defined in the TestCases folder as part of the main project directory. Each test case has a file with naming following a system of X_Y.in or X_Y.out where X is the checkpoint number and Y is a test for that checkpoint. Providing a ".in" file is optional for test case 1, but required for any additional test cases. This is due to the difference in execution can't realistically be different if there is not input. The ".in" files are parsed in as an input stream that simulates keyboard entry. The output is captured and tested line by line against the expected output in the associated ".out" file. 
